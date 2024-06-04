@@ -1,3 +1,6 @@
 public class ClaseNueva {
-    int numero=0;
+    int numero;
+    public ClaseNueva(int numero) {
+        this.numero = numero;
+    }
 }
